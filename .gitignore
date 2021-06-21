@@ -1,0 +1,12 @@
+# Folders
+/node_modules/
+/build
+
+# Buidler files
+cache
+artifacts
+coverage
+coverage.json
+
+#Environment Variables
+.env
